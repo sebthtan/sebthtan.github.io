@@ -1665,3 +1665,7 @@ input, select, textarea {
 	display: flex;
 	justify-content: space-between;
 }
+
+.skill-container {
+	display: flex;
+}
