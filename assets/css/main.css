@@ -1677,7 +1677,6 @@ input, select, textarea {
 }
 
 .devicon {
-	height: 32px;
-	width: 32px;
+	font-size: 32px;
 	padding: 16px;
 }
