@@ -1691,6 +1691,11 @@ input, select, textarea {
 .live-github-container {
 	width: 100%;
 	display: flex;
-	justify-content: space-around;
-	align-items: center;
+}
+
+.links {
+	display: flex;
+	flex-grow: 1;
+	width: 33%;
+	justify-content: center;
 }
