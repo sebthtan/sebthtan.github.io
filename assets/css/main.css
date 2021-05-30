@@ -1692,3 +1692,8 @@ input, select, textarea {
 	display: flex;
 	justify-content: center;
 }
+
+.live-github {
+	flex-grow: 1;
+	width: 33%;
+}
