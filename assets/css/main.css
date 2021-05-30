@@ -1701,4 +1701,9 @@ input, select, textarea {
 	text-decoration: none;
 	color: lightskyblue;
 	font-weight: bold;
+	line-height: 16px;
+}
+
+.projects-container {
+	margin-bottom: 20px;
 }
