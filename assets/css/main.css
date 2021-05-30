@@ -1702,4 +1702,5 @@ input, select, textarea {
 .links {
 	text-decoration: none;
 	color: lightskyblue;
+	font-weight: bold;
 }
