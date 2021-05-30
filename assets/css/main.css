@@ -1668,4 +1668,16 @@ input, select, textarea {
 
 .skill-container {
 	display: flex;
+	margin: 8px;
+
+}
+
+.skill-text {
+	font-size: 20px;
+}
+
+.devicon {
+	height: 32px;
+	width: 32px;
+	padding: 16px;
 }
