@@ -1696,4 +1696,10 @@ input, select, textarea {
 .live-github {
 	flex-grow: 1;
 	width: 33%;
+	margin: 20px;
+}
+
+.links {
+	text-decoration: none;
+	color: lightskyblue;
 }
