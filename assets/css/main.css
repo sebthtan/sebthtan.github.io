@@ -1683,3 +1683,7 @@ input, select, textarea {
 	font-size: 32px;
 	padding: 16px;
 }
+
+.projects-container {
+	margin-bottom: 6px;
+}
