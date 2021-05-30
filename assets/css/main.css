@@ -1663,7 +1663,6 @@ input, select, textarea {
 /* Customs */
 .skills-icons-sub {
 	display: flex;
-	justify-content: space-between;
 }
 
 .skill-container {
@@ -1673,7 +1672,8 @@ input, select, textarea {
 }
 
 .skill-text {
-	font-size: 20px;
+	font-size: 12px;
+	font-weight: 700;
 }
 
 .devicon {
