@@ -1703,4 +1703,5 @@ input, select, textarea {
 
 .projects-container {
 	margin-bottom: 60px;
+	border-bottom: 1px solid gray;
 }
