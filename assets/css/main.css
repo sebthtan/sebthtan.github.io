@@ -1684,10 +1684,6 @@ input, select, textarea {
 	padding: 16px;
 }
 
-.projects-container {
-	margin-bottom: 6px;
-}
-
 .live-github-container {
 	display: flex;
 	justify-content: center;
@@ -1706,6 +1702,6 @@ input, select, textarea {
 }
 
 .projects-container {
-	margin-bottom: 6px;
-	padding-bottom: 14px;
+	margin-bottom: 20px;
+	padding-bottom: 30px;
 }
