@@ -1687,3 +1687,10 @@ input, select, textarea {
 .projects-container {
 	margin-bottom: 6px;
 }
+
+.live-github-container {
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
