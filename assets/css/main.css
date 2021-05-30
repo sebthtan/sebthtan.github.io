@@ -1676,6 +1676,7 @@ input, select, textarea {
 .skill-text {
 	font-size: 12px;
 	font-weight: 700;
+	line-height: 64px;
 }
 
 .devicon {
