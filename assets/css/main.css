@@ -1671,6 +1671,7 @@ input, select, textarea {
 	flex-grow: 1;
 	width: 33%;
 	align-items: center;
+	justify-content: center;
 }
 
 .skill-text {
@@ -1704,4 +1705,10 @@ input, select, textarea {
 .projects-container {
 	margin-bottom: 60px;
 	border-bottom: 1px solid gray;
+}
+
+@media only screen and (max-width: 768px) {
+	.skill-container {
+		flex-direction: column;
+	}
 }
