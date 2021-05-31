@@ -1672,6 +1672,7 @@ input, select, textarea {
 	width: 33%;
 	align-items: center;
 	justify-content: center;
+	flex-wrap: wrap;
 }
 
 .skill-text {
