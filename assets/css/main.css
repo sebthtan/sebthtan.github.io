@@ -1712,4 +1712,9 @@ input, select, textarea {
 	.skill-container {
 		flex-direction: column;
 	}
+	.skill-text {
+		font-size: 12px;
+		font-weight: 700;
+		line-height: 12px;
+	}
 }
